@@ -1,11 +1,44 @@
-# ositocolorido
+# calculator
 
-👋 Hola, soy @mabelolivera10 "MABEL QUISPE OLIVERA"
-👀 Persona apasionada con su profesión, excelente capacidad de organización y facilidad de trabajo en equipo. Muy adaptable a todo tipo de entornos y clara orientación a objetivos. Con conocimientos en diferentes lenguajes de programación como: Java, Visual.NET, PHP, entre otros; Interés en el área de desarrollo de software y/o Análisis de sistemas.
-🌱 Actualmente estoy aprendiendo distintos lenguajes de programación
-💞️ Busco colaborar contigo
-📫 Cómo contactarme en mis redes sociales:
-Facebook:@mabelquispeolivera
-Instagram: @mabelolivera10
-TikTok: @encoded o @Mabelolivera10
-Youtube: @encoded o @mabelquispeolivera
+[Demo](https://alii16.github.io/beruang-happy/)
+
+## 🚀 How to Use
+
+1.  **Clone Repository**
+
+    ```bash
+    # Clone this repository or download it
+    $ git clone https://github.com/alii16/beruang-happy
+
+    # Go into the repository
+    $ cd beruang-happy
+
+    # Open it with your text editor
+    $ code .
+    ```
+
+2. **Open with Live Server**
+
+    Your site is now running!
+
+3. **Deployment**
+
+    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages).
+
+## 📝 Contributing
+
+If you have any ideas to make it more interesting, please submit a pull request or create an issue for a feature request.
+
+## 🤝 License
+
+### [MIT](LICENSE)
+
+> Github [@alii16](https://github.com/alii16) &nbsp;&middot;&nbsp;
+> Instagram [@aliiwithahoodie](https://instagram.com/aliiwithahoodie) &nbsp;&middot;&nbsp;
+
+# this code belong to Mabelolivera
+
+> Github [@mabelolivera10](https://github.com/mabelolivera10) &nbsp;&middot;&nbsp;
+> Instagram [@mabelolivera10](https://instagram.com/mabelolivera10) &nbsp;&middot;&nbsp;
+> Facebook [@mabelquispeolivera] &nbsp;&middot;&nbsp;
+> Tiktok [@Mabelolivera10](https://instagram.com/Mabelolivera) &nbsp;&middot;&nbsp;
