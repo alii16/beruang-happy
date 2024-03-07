@@ -1,4 +1,4 @@
-# calculator
+# Beruang Happy
 
 [Demo](https://alii16.github.io/beruang-happy/)
 
